@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994917942003",
+    "project_id": "armodel-c48be",
+    "storage_bucket": "armodel-c48be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994917942003:android:3e94d908cfca6df51d2d86",
+        "android_client_info": {
+          "package_name": "com.example.armodel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClFm6SPNoWcb95n0d5iabJoEoASxyfOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
